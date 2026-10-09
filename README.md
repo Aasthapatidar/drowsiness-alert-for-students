@@ -5,7 +5,10 @@ A real-time drowsiness detector that watches your eyes through a normal webcam a
 ## Demo
 
 
-https://github.com/user-attachments/assets/35b1ecd9-5a00-4974-846f-7c1294b38909
+https://github.com/user-attachments/assets/b4278ade-b3b0-4cd0-abb4-fee06d7442cb
+
+
+
 
 
 
